@@ -1,5 +1,5 @@
 # Taller 4 Alternativo - Machine Learning
-- Sebastián Castellano Estupiñan
+- Sebastián Castellanos Estupiñan
 - Ricardo Andrés Cortés Coronell
 - Andrés Felipe Sanchez Rincón
 
